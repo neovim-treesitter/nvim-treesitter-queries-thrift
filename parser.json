@@ -1,8 +1,7 @@
 {
-  "lang": "thrift",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-thrift",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "parser_version": "68fd0d80943a828d9e6f49c58a74be1e9ca142cf",
   "location": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-thrift"
+  "lang": "thrift"
 }
